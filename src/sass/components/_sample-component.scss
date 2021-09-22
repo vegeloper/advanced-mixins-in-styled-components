@@ -1,0 +1,10 @@
+//Code
+.my-component-class {
+    border: 6px solid #b28451;
+    background: transparent;
+
+    @include responsive(mobile) {
+        border: var(--border);
+        background: var(--color-primary);
+    }
+}

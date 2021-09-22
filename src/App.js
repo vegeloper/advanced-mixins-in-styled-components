@@ -1,5 +1,5 @@
 //Imports
-import MyComponent from './my-component';
+import MyComponent from './components/my-component';
 
 //Code
 function App() {
