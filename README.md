@@ -41,12 +41,12 @@ npm run client
 ```
 
 ### SASS commands
-* To add more css, create new sass file and import it in main.scss, the run the "build" command.
+* To add more css, create new sass file and import it in main.scss, and run the "build" command.
 ```
 npm run build-css
 ```
 
-* To activate live processing, run "scss" command and import the styles from src/css/styles.css.
+* To activate live processing, run "scss" command and import the styles from src/css/styles.css in the index.js.
 ```
 npm run scss
 ```
