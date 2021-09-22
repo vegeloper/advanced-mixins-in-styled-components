@@ -1,6 +1,6 @@
-# Project Title
+# Advanced mixins in styled compoents
 
-Advanced mixins in styled compoents
+Part-2: Nested Mixins and arguments
 
 ## Description
 
